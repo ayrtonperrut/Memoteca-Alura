@@ -1,0 +1,109 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Olá mundo",
+      "autoria": "Primeiro Pensamento",
+      "modelo": "modelo1",
+      "favorito": true
+    },
+    {
+      "id": 3,
+      "conteudo": "Buiachakaaaaaaaaaaaaaaaaaaaaaaaaaaa aushdoaijsda ufsuihfjsdnc testando alguns caracteres",
+      "aurtoria": "Ayrton",
+      "modelo": "modelo2",
+      "favorito": false
+    },
+    {
+      "id": 4,
+      "conteudo": "Lorem ipsum et phasellus mauris nec ac congue fames integer etiam potenti erat, dui nullam pretium facilisis vivamus donec luctus a sapien donec suspendisse tellus, conubia massa lectus posuere nunc non dapibus nulla quis magna nec. feugiat nisl curae turpis justo tortor suspendisse eros aenean maecenas aenean lobortis gr",
+      "aurtoria": "Gerador de texto",
+      "modelo": "modelo2",
+      "favorito": false
+    },
+    {
+      "conteudo": "Teste novo pensamento",
+      "autoria": "NP",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 5
+    },
+    {
+      "conteudo": "Teste novo pensamento Editado",
+      "autoria": "NP Editado",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 6
+    },
+    {
+      "conteudo": "cnjcnasjcn\\açclkjnasjcn",
+      "autoria": "cnasckancqo-cdoacsjzkxcmlacml]í93340r8u",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 7
+    },
+    {
+      "id": 8,
+      "conteudo": "teeeste",
+      "autoria": "aaa",
+      "modelo": "modelo3",
+      "favorito": true
+    },
+    {
+      "conteudo": "Que a força esteja com voce",
+      "autoria": "Mestre Yoda",
+      "modelo": "modelo1",
+      "favorito": true,
+      "id": 10
+    },
+    {
+      "conteudo": "aaaa",
+      "autoria": "aaaaa",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 11
+    },
+    {
+      "conteudo": "Resolver o bug não consegue? Esfriar a cabeça voce deve!",
+      "autoria": "Yoda",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 12
+    },
+    {
+      "conteudo": "Na volta a gente compra!",
+      "autoria": "Mãe",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 13
+    },
+    {
+      "conteudo": "Não passe vergonha, passe um café",
+      "autoria": "Dev",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 14
+    },
+    {
+      "conteudo": "Teste novo",
+      "autoria": "Teste",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 15
+    },
+    {
+      "conteudo": "Teste novo",
+      "autoria": "teste",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 16
+    },
+    {
+      "conteudo": "Teste novo",
+      "autoria": "Novo",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 17
+    }
+  ]
+}
